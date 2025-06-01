@@ -3,9 +3,9 @@ We are a rogue squadron of coding renegades who live to conquer the wildest chal
 
 # Our Vibe 🌶️
 
-**Serious Skills, Silly Souls:** We craft production-grade code by day and roast bad APIs over virtual campfires by night.
-**No Challenge Too Big:** Got an “impossible” problem? We’ll solve it, open-source it, and maybe add a snarky comment for posterity.
-**Community with a Kick:** Join us if you’re ready to code hard, laugh harder, and accidentally reinvent the wheel.
+- **Serious Skills, Silly Souls:** We craft production-grade code by day and roast bad APIs over virtual campfires by night.
+- **No Challenge Too Big:** Got an “impossible” problem? We’ll solve it, open-source it, and maybe add a snarky comment for posterity.
+- **Yet-Another Peer Group:** Join us if you’re ready to code hard, laugh harder, and accidentally reinvent the wheel.
 
 # Our Manifesto 🛠️
 
